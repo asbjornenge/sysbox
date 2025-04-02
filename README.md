@@ -288,6 +288,8 @@ spec:
   restartPolicy: Never
 ```
 
+The default username/password for the example image is admin/admin.
+
 You can choose whatever container image you want, Sysbox places no requirements
 on the image.
 
